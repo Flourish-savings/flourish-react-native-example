@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reactnativepoc",
+    "slug": "reactnativepoc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reactnativepoc"
+}
