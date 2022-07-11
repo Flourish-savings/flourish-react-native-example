@@ -1,4 +1,4 @@
-# React Native POC
+# React Native Integration Example
 
 ## How to run
 
@@ -28,5 +28,14 @@ In the terminal that the server is running:
 › Press i │ to open in iOS simulator
 › Press w │ to open in web browser
 ```
+
+## Behavior
+
+As it is a demo, we always pass a random customer-code to have the same behavior every time it is executed.
+
+Remember that the customer-code is the user's identification on the platform.
+
+Feel free to change this implementation.
+
 
 Enjoy!
