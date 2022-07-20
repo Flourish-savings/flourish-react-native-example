@@ -1,10 +1,20 @@
 # React Native Integration Example
 
-## How to run
+
+## Getting started
+
+
+### Prerequisites
+
+Any Node v14.0.0 or greater version
+
+For Android, SDK 12 or greater
+
+### How to run
 
 Don't forget to create the `.env` file with the variables that has been passed to you.
 
-Assuming that you have Node 14 or greater installed, you can use npm to install the Expo CLI command line utility:
+Assuming that you have Node 14 or greater installed, you can use yarn to install the Expo CLI command line utility:
 
 ```
 yarn global add expo-cli
